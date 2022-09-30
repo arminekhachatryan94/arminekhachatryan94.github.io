@@ -22,7 +22,7 @@
     "@angular/router": "^6.1.0",
     "core-js": "^2.5.4",
     "cytoscape": "^3.14.0",
-    "d3": "^5.15.0",
+    "d3": "^7.6.1",
     "d3-hierarchy": "^1.1.9",
     "file-saver": "^2.0.2",
     "js-combinatorics": "^0.5.5",
